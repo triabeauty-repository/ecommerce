@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.triabeauty.security</groupId>
+  <artifactId>rampart-core</artifactId>
+  <version>1.6.0</version>
+  <versioning>
+    <versions>
+      <version>1.6.0</version>
+    </versions>
+    <lastUpdated>20140102044416</lastUpdated>
+  </versioning>
+</metadata>
